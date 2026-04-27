@@ -1,0 +1,197 @@
+{
+  "personal": {
+    "name": "Ahmed Hamzah",
+    "title": "Senior Backend Developer | Python & Django Specialist | AI/ML Integration Expert",
+    "tagline": "Building robust web applications with clean code",
+    "shortTitle": "Python & Django Developer",
+    "bio": "Results-driven Senior Backend Developer with 3+ years of professional experience architecting and deploying scalable, high-performance backend systems using Python, Django, and Django REST Framework. Proven expertise in leading development teams, managing multiple concurrent projects, and delivering AI/ML-integrated platforms serving 10,000+ active users.",
+    "email": "ahmed.128hemzh@gmail.com",
+    "phone": "+967 783 772 110",
+    "location": "Sana'a, Yemen",
+    "availability": "Available",
+    "linkedin": "linkedin.com/in/ahmed-coding",
+    "github": "github.com/ahmed-coding",
+    "resumePath": "/Ahmed_Hamzah_Resume.pdf",
+    "githubStats": {
+      "repositories": 71
+    }
+  },
+  "summary": {
+    "highlight": "Specialized in RESTful API design, database optimization, authentication systems (JWT, RBAC), and automated trading solutions. Strong track record of improving system performance by 30-40%, reducing deployment bugs by 30%, and achieving 100% on-time project delivery.",
+    "achievements": [
+      "Improved system performance by 30-40%",
+      "Reduced deployment bugs by 30%",
+      "100% on-time project delivery",
+      "Served 10,000+ active users",
+      "Led team of 5 developers"
+    ]
+  },
+  "experience": [
+    {
+      "id": 1,
+      "role": "Senior Django Backend Developer / Team Lead",
+      "company": "NQ7 Group",
+      "location": "Sana'a, Yemen",
+      "duration": "January 2021 – October 2024",
+      "description": "Led cross-functional backend team of 5 developers and supervised frontend team, achieving 100% on-time delivery across all projects while fostering seamless collaboration between development teams.",
+      "highlights": [
+        "Architected and developed 40+ scalable RESTful API endpoints using Django and Django REST Framework",
+        "Established and maintained enterprise-grade internal platforms for 3 major institutions, supporting 5,000+ daily active users with 99.9% uptime",
+        "Implemented comprehensive security framework with JWT-based authentication and Role-Based Access Control (RBAC)",
+        "Optimized PostgreSQL and MySQL database schemas and queries, achieving 25-40% performance improvements",
+        "Integrated real-time communication features and asynchronous background processing using Celery and Redis"
+      ]
+    },
+    {
+      "id": 2,
+      "role": "Backend & Trading Systems Developer (Freelance)",
+      "company": "Remote",
+      "location": "Remote",
+      "duration": "March 2022 – Present",
+      "description": "Designed and deployed 5+ independent backend systems from concept to production, serving over 10,000 active users with high-concurrency support and horizontal scalability.",
+      "highlights": [
+        "Engineered high-frequency algorithmic trading bots with advanced risk management, achieving up to 5% average monthly returns",
+        "Developed AI-powered Real Estate platform integrated with Machine Learning models for property analysis",
+        "Implemented secure RESTful APIs with comprehensive authentication and API documentation (Swagger/OpenAPI)",
+        "Built custom admin dashboards and control panels for managing 50+ system configurations",
+        "Optimized database architectures for 5M+ records, reducing query execution time by 35%"
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "id": 1,
+      "title": "Real Estate Platform Backend with ML Integration",
+      "description": "Developed comprehensive Django backend managing 2,000+ property listings for real estate sale and rental operations. Integrated machine learning models for property data analysis, price prediction, and automated market insights generation.",
+      "tech": ["Python", "Django", "Django REST Framework", "PostgreSQL", "Machine Learning", "Pandas", "NumPy", "Docker", "REST APIs"],
+      "link": "#",
+      "github": "#",
+      "features": ["2,000+ property listings", "ML price prediction", "Market insights", "Docker deployment"]
+    },
+    {
+      "id": 2,
+      "title": "Fashion E-commerce APIs",
+      "description": "Architected modular backend API platform with 15+ microservices including product catalog, user management, order processing, and analytics dashboards.",
+      "tech": ["Python", "Django", "Django REST Framework", "PostgreSQL", "MySQL", "Media Handling", "Modular Architecture", "REST APIs"],
+      "link": "#",
+      "github": "#",
+      "features": ["15+ microservices", "Product catalog", "Order processing", "Analytics dashboard"]
+    },
+    {
+      "id": 3,
+      "title": "AI-Driven Algorithmic Trading System",
+      "description": "Built ML-driven trading framework processing 1,000+ automated trades monthly across 10+ market scenarios with real-time decision-making capabilities.",
+      "tech": ["Python", "Django", "Django REST Framework", "Machine Learning", "Pandas", "NumPy", "PostgreSQL", "Binance API", "Automated Trading"],
+      "link": "#",
+      "github": "#",
+      "features": ["1,000+ automated trades/month", "10+ market scenarios", "Real-time decision making", "Django management dashboard"]
+    },
+    {
+      "id": 4,
+      "title": "E-Commerce Platform",
+      "description": "Full-featured e-commerce platform built with Django, featuring product management, shopping cart, secure payments, and order tracking.",
+      "tech": ["Django", "PostgreSQL", "Stripe", "Tailwind"],
+      "link": "#",
+      "github": "#"
+    },
+    {
+      "id": 5,
+      "title": "Task Management API",
+      "description": "RESTful API for task management with authentication, team collaboration, and real-time notifications using Django REST Framework.",
+      "tech": ["Django REST Framework", "JWT", "Redis", "Celery"],
+      "link": "#",
+      "github": "#"
+    },
+    {
+      "id": 6,
+      "title": "Content Management System",
+      "description": "Custom CMS for bloggers with rich text editing, media management, SEO optimization, and scheduled publishing.",
+      "tech": ["Django", "Vue.js", "AWS S3", "PostgreSQL"],
+      "link": "#",
+      "github": "#"
+    }
+  ],
+  "skills": {
+    "backend": [
+      { "name": "Python", "level": 95 },
+      { "name": "Django", "level": 95 },
+      { "name": "Django REST Framework", "level": 93 },
+      { "name": "FastAPI", "level": 80 },
+      { "name": "RESTful APIs", "level": 92 },
+      { "name": "Microservices", "level": 85 }
+    ],
+    "database": [
+      { "name": "PostgreSQL", "level": 90 },
+      { "name": "MySQL", "level": 88 },
+      { "name": "SQLite", "level": 90 },
+      { "name": "Redis", "level": 85 },
+      { "name": "Database Optimization", "level": 88 },
+      { "name": "Data Modeling", "level": 87 }
+    ],
+    "security": [
+      { "name": "JWT", "level": 92 },
+      { "name": "OAuth", "level": 85 },
+      { "name": "RBAC", "level": 90 },
+      { "name": "API Security", "level": 88 }
+    ],
+    "ai_ml": [
+      { "name": "Machine Learning", "level": 80 },
+      { "name": "Pandas", "level": 85 },
+      { "name": "NumPy", "level": 82 },
+      { "name": "Trading Algorithms", "level": 85 },
+      { "name": "Data Analysis", "level": 82 }
+    ],
+    "devops": [
+      { "name": "Docker", "level": 85 },
+      { "name": "Docker Compose", "level": 85 },
+      { "name": "CI/CD Pipelines", "level": 78 },
+      { "name": "AWS", "level": 75 },
+      { "name": "Linux", "level": 80 }
+    ],
+    "tools": [
+      { "name": "Git", "level": 90 },
+      { "name": "GitHub", "level": 90 },
+      { "name": "Celery", "level": 85 },
+      { "name": "Background Tasks", "level": 88 },
+      { "name": "pytest", "level": 80 }
+    ]
+  },
+  "education": [
+    {
+      "id": 1,
+      "degree": "Bachelor of Science in Management Information Systems",
+      "school": "UAE International University",
+      "location": "Sana'a, Yemen",
+      "year": "2024"
+    },
+    {
+      "id": 2,
+      "degree": "Diploma in English Language",
+      "school": "Developer Institute",
+      "grade": "Excellent (92.6%)",
+      "duration": "September 2020 – August 2021"
+    }
+  ],
+  "certifications": [
+    {
+      "title": "Diploma in English Language",
+      "institution": "Developer Institute",
+      "grade": "Excellent (92.6%)",
+      "year": "2021"
+    }
+  ],
+  "languages": [
+    { "name": "Arabic", "level": "Native" },
+    { "name": "English", "level": "Professional Working Proficiency" }
+  ],
+  "social": {
+    "github": "https://github.com/ahmed-coding",
+    "linkedin": "https://linkedin.com/in/ahmed-coding",
+    "email": "ahmed.128hemzh@gmail.com"
+  },
+  "contact": {
+    "email": "ahmed.128hemzh@gmail.com",
+    "phone": "+967 783 772 110",
+    "subject": "Portfolio Contact"
+  }
+}
