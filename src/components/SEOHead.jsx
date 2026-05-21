@@ -16,9 +16,10 @@ export function SEOHead() {
         'name': 'Your University'
       },
       'sameAs': [
-        'https://linkedin.com/in/ahmed-hamzah',
+        'https://linkedin.com/in/ahmed-coding',
         'https://github.com/ahmed-coding',
-        'https://twitter.com/ahmed-coding'
+        'https://twitter.com/ahmed_m_coding',
+        'https://www.instagram.com/ahmed_coding'
       ],
       'knowsAbout': [
         'Python',
@@ -39,7 +40,7 @@ export function SEOHead() {
       'contactPoint': {
         '@type': 'ContactPoint',
         'contactType': 'Professional Contact',
-        'email': 'your-email@example.com'
+        'email': 'ahmed.128hemzh@gmail.com'
       }
     };
 
